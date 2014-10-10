@@ -1,0 +1,9 @@
+[core]
+	editor = vim
+	pager = lv -c
+	excludesfile = ~/.gitignore
+[user]
+	email = hiro-yuy@outlook.jp
+	name = hiro-yuy
+[color]
+	ui = auto
